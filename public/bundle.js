@@ -25565,7 +25565,7 @@
 	          'Created by ',
 	          React.createElement(
 	            'a',
-	            { href: 'http://google.com', target: '_blank' },
+	            { href: 'http://www.linkedin.com/in/atinmathur10', target: '_blank' },
 	            'Atin Mathur'
 	          )
 	        )
